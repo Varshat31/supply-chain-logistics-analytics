@@ -1,0 +1,3 @@
+Download the DataCo Smart Supply Chain Dataset and put its CSV file in this folder.
+Expected default filename: DataCoSupplyChainDataset.csv
+Dataset source: https://data.mendeley.com/datasets/8gx2fvg2k6/5
